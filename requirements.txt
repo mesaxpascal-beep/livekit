@@ -1,0 +1,3 @@
+flask
+livekit-api
+gunicorn
